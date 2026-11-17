@@ -1,0 +1,6 @@
+{
+  "name": "ThanhÂm Studio",
+  "description": "Phòng thu chuyển văn bản thành giọng nói AI đa tính năng hỗ trợ đọc đơn, hội thoại hai người, biên tập kịch bản, sóng âm và xuất WAV/MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
